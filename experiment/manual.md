@@ -11,4 +11,4 @@ Start the experiment with the default values of length, mass and intial displace
 - User can also compare where the time period remains same under different amplitude conditions.
 
 
-[Read More](7manual.pdf)
+[Read More](doc/7manual.pdf)
