@@ -1,1 +1,17 @@
-/* You CSS goes in here */
+.page {
+	overflow-x: scroll;
+	overflow-y: scroll;
+}
+
+.action-button {
+	color: white;
+	text-align: center;
+	background-color: #288EC8;
+	border-radius: 16px;
+	padding: 10px 20px;
+	border: none;
+}
+
+.action-button:hover {
+	background-color: #A9A9A9;
+}
