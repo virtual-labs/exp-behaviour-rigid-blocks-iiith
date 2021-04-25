@@ -52,5 +52,5 @@ document.addEventListener('DOMContentLoaded', function () {
 	floor1.src = '../Floor1/1.jpg';
 	floor3.src = '../Floor3/1.jpg';
 
-	let tmHandle = window.setTimeout(updateImg, 1000 / fps);
+	//let tmHandle = window.setTimeout(updateImg, 1000 / fps);
 })
