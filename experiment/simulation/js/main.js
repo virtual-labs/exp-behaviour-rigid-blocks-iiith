@@ -26,8 +26,8 @@ document.addEventListener('DOMContentLoaded', function () {
 	{
 		imgsF1.push(new Image());
 		imgsF3.push(new Image());
-		imgsF1[i].src = "../Floor1/" + (i + 1) + ".jpg";
-		imgsF3[i].src = "../Floor3/" + (i + 1) + ".jpg";
+		imgsF1[i].src = "./Floor1/" + (i + 1) + ".jpg";
+		imgsF3[i].src = "./Floor3/" + (i + 1) + ".jpg";
 	}
 
 	let imgNum = 0;
@@ -49,8 +49,8 @@ document.addEventListener('DOMContentLoaded', function () {
 	let floor3 = document.createElement('img');
 	floor1Elem.appendChild(floor1);
 	floor3Elem.appendChild(floor3);
-	floor1.src = '../Floor1/1.jpg';
-	floor3.src = '../Floor3/1.jpg';
+	floor1.src = './Floor1/1.jpg';
+	floor3.src = './Floor3/1.jpg';
 
-	//let tmHandle = window.setTimeout(updateImg, 1000 / fps);
+	let tmHandle = window.setTimeout(updateImg, 1000 / fps);
 })
