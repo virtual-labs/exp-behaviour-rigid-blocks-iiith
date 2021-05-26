@@ -1,1 +1,1 @@
-### Behaviour of Rigid Blocks
+## Behaviour of Rigid Blocks
