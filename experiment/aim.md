@@ -4,8 +4,8 @@ To understand the behavior of rigid blocks (or furniture) to given amplitude and
 
  
 <img src="images/shkae_obser.bmp"> 
-
+<br> <br> 
 To understand the behavior of rigid blocks(or furniture) to given amplitude and frequency of ground motion.
-
+<br> <br> 
 <img src="images/6.jpg"> 
 
