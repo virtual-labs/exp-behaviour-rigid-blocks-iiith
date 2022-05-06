@@ -3,16 +3,4 @@
 	overflow-y: scroll;
 }
 
-.action-button {
-	color: white;
-	text-align: center;
-	font-size: 120%;
-	background-color: #288EC8;
-	border-radius: 16px;
-	padding: 10px 20px;
-	border: none;
-}
-
-.action-button:hover {
-	background-color: #A9A9A9;
-}
+ 
